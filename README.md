@@ -10,7 +10,7 @@ Sarcasm is a nuanced linguistic phenomenon that often relies on context, sentime
 
 We utilize the [Webis-TLDR-17 dataset](https://huggingface.co/datasets/webis/tldr-17), which contains user-generated Reddit posts and summaries. This dataset enables fine-grained analysis of sarcasm signals and is well-suited for classification tasks involving short-form text.
 
-[🔍 Click here to view the Term Rank Visualization](index.html) 
+[🔍 Click here to view the Term Rank Visualization](plots/index.html) 
 
 ## Methods
 
