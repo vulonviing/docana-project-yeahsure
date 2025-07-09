@@ -1,5 +1,5 @@
-title: Document Analysis Semester Project
-description: This repository is a GitHub Pages template for Document Analysis course projects. 
+title: Unmasking Sarcasm on Reddit
+description: Unmasking Sarcasm’s Signature on Reddit — #RoBERTa #FineTuning #Sarcasm #Reddit #TFIDF #HDBSCAN #NLP #DocAna25
 show_downloads: True
 plugins:
   - jekyll-relative-links
